@@ -3,13 +3,13 @@
 1. Clone the project
 
 ```
-
+ https://github.com/aditya-devcraft/ExpressTypescriptTemplate.git
 ```
 
 2. Move in to the folder structure
 
 ```
-
+cd Express-Template-Starter-Project
 ```
 
 3. Install npm dependencies
